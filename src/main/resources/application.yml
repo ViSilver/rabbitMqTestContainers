@@ -9,3 +9,4 @@
 #    file: "%d %p %c{1.} [%t] %m%n"
 #  file: app.log
 
+queue-name: hello
